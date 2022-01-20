@@ -61,3 +61,4 @@
 | MobiledgeX | Thomas Vits ||
 | Bell Canada | Daniel Bernier | Yes |
 | Bell Canada | Marc-Alexandre Choquette ||
+| Vodafone | Johanna Wood | Yes |
